@@ -1,2 +1,2 @@
 # LAMP-Stack
-Small LAMP Stack project
+Project instructions were to set up a LAMP stack on a virtual machine using VirtualBox and Ubuntu. The website just has a feature to login checking user credentials in the database or register a new user and add them to the database. The instructions for the project focused on functionality and not the design due to the extreme time constraints (we were only given the last three days of a summer class to complete the entire project starting with no prior experience of Ubuntu, Apache, PHP, or PHPMyAdmin). The site is 100% functional and I received an A grade overall on the project and in the Web Engineering class.
